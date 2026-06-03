@@ -65,10 +65,9 @@ button:hover{
 }
 
 .message{
-    max-width:600px;
-    line-height:1.8;
+    max-width: 900px;
     font-size:18px;
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .title{
